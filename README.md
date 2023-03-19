@@ -1,2 +1,2 @@
 # Tugas-Algoritma
-Tempat mengumpul tugas Algoritma dan Struktur Data
+Tempat pengumpulan tugas Algoritma dan Struktur Data
